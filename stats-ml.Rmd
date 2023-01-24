@@ -65,7 +65,9 @@ Questions and tasks:
 
 - Comment on the fit, plot residuals and comment on them.
 - Comment on the prediction; does it seem reasonable?
-
+```{r}
+plot(m)
+```
 
 ## ML 1: LOESS
 
